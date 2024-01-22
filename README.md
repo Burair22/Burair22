@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Burair22 an 18 years old recently passed high school
+- 👋 Hi, I’m @Burair22
+- 🏫 I'm 18 years old recently passed high school
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me burairzaidi100@gmail.com
